@@ -33,7 +33,7 @@ Retriever_evaluation.py  # Evaluates retrievers and supports pipeline selection
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Charlesyckuo/Adaptive-AI-Agent-Builder>
    ```
 2. Navigate to the project directory:
    ```bash
@@ -122,8 +122,8 @@ This project leverages state-of-the-art APIs and frameworks to provide robust AI
 
 ## Contact
 For questions, feature requests, or collaboration opportunities, please contact:
-- **Email:** [your_email@example.com]
-- **GitHub:** [repository-url]
+- **Email:** [charles.kuo.yc@gmail.com]
+- **GitHub:** [https://github.com/Charlesyckuo/Adaptive-AI-Agent-Builder]
 
 Feel free to contribute and share your feedback to help us improve the tool!
 
